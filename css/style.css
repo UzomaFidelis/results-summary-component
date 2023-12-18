@@ -283,7 +283,7 @@ li:first-child>span:first-child>p::before {
 }
 
 li:first-child {
-    background-color: hsla(var(--light_red), 0.1);
+    background-color: hsla(var(--light_red), 0.05);
     margin-bottom: 1.1rem;
 }
 
@@ -295,7 +295,7 @@ li:nth-child(2)>span:first-child>p::before {
 }
 
 li:nth-child(2) {
-    background-color: hsla(var(--orangey_yellow), 0.1);
+    background-color: hsla(var(--orangey_yellow), 0.05);
     margin-bottom: 1rem;
 }
 
@@ -310,7 +310,7 @@ li:nth-child(3)>span:first-child>p::before {
 }
 
 li:nth-child(3) {
-    background-color: hsla(var(--green_teal), 0.1);
+    background-color: hsla(var(--green_teal), 0.05);
     margin-bottom: 1.1rem;
 }
 
@@ -324,7 +324,7 @@ li:last-child>span:first-child>p::before {
 }
 
 li:nth-child(4) {
-    background-color: hsla(var(--cobalt_blue), 0.1);
+    background-color: hsla(var(--cobalt_blue), 0.05);
     margin-bottom: 1.4rem;
 }
 
